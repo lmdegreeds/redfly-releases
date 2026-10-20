@@ -6,7 +6,7 @@ Official distribution repository for [redfly.app](https://redfly.app/).
 
 [Download page and compatibility guide](https://redfly.app/#download) · [Latest release assets](https://github.com/lmdegreeds/redfly-releases/releases/latest)
 
-Choose the correct build for your phone or controller on the website and follow its installation instructions. Release assets include RedFly, RedPilot, Pilot and controller utilities. They are distributed as original signed files, without changes during migration.
+Choose the correct build for your phone or controller on the website and follow its installation instructions. Release assets include RedFly, RedPilot, Pilot and controller utilities. Files are migrated without changing their contents; existing APK signatures are preserved.
 
 `SHA256SUMS.txt` contains SHA-256 checksums for APKs and utilities. `ADB-NOTICE.txt` contains third-party notices.
 
